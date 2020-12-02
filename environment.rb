@@ -1,0 +1,6 @@
+require_relative 'app/language'
+require_relative 'app/search'
+require_relative 'app/query_parser'
+require_relative 'app/query'
+require_relative 'app/language_builder'
+require_relative 'app/languages_loader'
